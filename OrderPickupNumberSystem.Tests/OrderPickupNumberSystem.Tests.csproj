@@ -17,7 +17,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\OrderPickupNumberSystem.App\OrderPickupNumberSystem.App.csproj" />
+    <ProjectReference Include="..\OrderPickupNumberSystem\OrderPickupNumberSystem.csproj" />
   </ItemGroup>
 
 </Project>
